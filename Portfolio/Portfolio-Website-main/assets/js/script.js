@@ -133,6 +133,10 @@ function showProjects(projects) {
     });
     // <!-- tilt js effect ends -->
 
+  
+
+
+
     /* ===== SCROLL REVEAL ANIMATION ===== */
     const srtop = ScrollReveal({
         origin: 'top',
